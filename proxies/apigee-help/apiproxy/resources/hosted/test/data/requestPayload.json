@@ -1,0 +1,11 @@
+{
+  "fulfillmentMessages": [
+  ],
+  "payload": {
+    "google": {
+      "expectUserResponse": true,
+      "richResponse": {
+      }
+    }
+  }
+}
